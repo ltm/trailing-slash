@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/foo/(.*)",
-      "destination": "https://httpbin.org/anything/$1"
+      "destination": "https://httpbin.org/anything/$1/"
     }
   ]
 }
