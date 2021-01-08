@@ -6,6 +6,5 @@ module.exports = {
         destination: "https://httpbin.org/anything/$1"
       }
     ];
-  },
-  trailingSlash: true
+  }
 };
